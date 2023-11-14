@@ -1,5 +1,29 @@
-- 👋 Hi, I’m @theviping
-- 👀 I’m interested in software development, with a focus on Python and C programming.
-- 🌱 I’m currently learning advanced concepts in Python and C, and exploring their applications in various domains.
-- 💞️ I’m looking to collaborate on open-source projects, particularly those using Python or C. I'm also open to working on innovative projects that provide opportunities for learning and growth.
-- 📫 How to reach me: You can reach out to me via email (v8400112743@gmail.com), or connect with me on LinkedIn (https://www.linkedin.com/in/theviping/).
+<h1 align="center">Hi 👋, I'm Vipin Gupta</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theviping" alt="theviping" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/theviping" target="blank"><img src="https://img.shields.io/twitter/follow/theviping?logo=twitter&style=for-the-badge" alt="theviping" /></a> </p>
+
+- 🌱 I’m currently learning **C and Python**
+
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/theviping/](https://www.linkedin.com/in/theviping/)
+
+- 💬 Ask me about **Student @niu_noida**
+
+- 📫 How to reach me **v8400112743@gmail.com**
+
+- ⚡ Fun fact **I think I can learn things very easily.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/theviping" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theviping" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/theviping" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theviping" height="30" width="40" /></a>
+<a href="https://fb.com/theviping" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="theviping" height="30" width="40" /></a>
+<a href="https://instagram.com/theviping" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theviping" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
