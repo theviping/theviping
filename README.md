@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Student @niu_noida**
 
-- 📫 How to reach me **v8400112743@gmail.com**
+- 📫 How to reach me **thevipingupta1@gmail.com**
 
 - ⚡ Fun fact **I think I can learn things very easily.**
 
